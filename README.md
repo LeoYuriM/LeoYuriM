@@ -7,7 +7,7 @@
 
 ![Leonardo Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoYuriM&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoYuriM&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies that I use
 
