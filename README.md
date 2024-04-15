@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science with Python**
 
-- 👨‍💻 All of my projects are available at [leoyuri.pythonanywhere.com](leoyuri.pythonanywhere.com)
+- 👨‍💻 All of my projects are available at [leoyuri.pythonanywhere.com](leoyuri.pythonanywhere.com) 
 
 - 💬 Ask me about **Django, Python, Programming Logic**
 
