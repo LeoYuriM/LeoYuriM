@@ -1,5 +1,7 @@
 import { Composition, Folder } from "remotion";
 import { HelloWorld } from "./HelloWorld";
+import { BizuVideo } from "./bizu/BizuVideo";
+import { TOTAL_DURATION } from "./bizu/data";
 import { Logo } from "./HelloWorld/Logo";
 import { Title } from "./HelloWorld/Title";
 
@@ -8,6 +10,14 @@ import { Title } from "./HelloWorld/Title";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="BizuFeridas"
+        component={BizuVideo}
+        durationInFrames={Math.round(TOTAL_DURATION * 30)}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
       <Folder name="Elements">
         <Composition
           id="Logo"

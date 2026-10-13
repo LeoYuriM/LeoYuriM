@@ -5,3 +5,6 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# Video base (footage do cliente, gerado por scripts/clean_video.py)
+public/base.mp4
